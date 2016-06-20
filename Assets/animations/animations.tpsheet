@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: animations.png (352 x 84)
+# $TexturePacker:SmartUpdate:e1644c7ea5bd656c8cd80f7c158e7f0d:363e1958ee4a21563e9295b879c8a163:84ded729b976f4b4f589b037d9d29fb4$
+#
+
+jump/jump;2;30;73;52;0.5;0.5
+running/running_0000_Layer-1;77;14;58;68;0.5;0.5
+running/running_0001_Layer-2;137;2;41;80;0.5;0.5
+running/running_0002_Layer-3;180;5;31;77;0.5;0.5
+running/running_0003_Layer-4;213;4;34;78;0.5;0.5
+running/running_0004_Layer-5;249;13;43;69;0.5;0.5
+running/running_0005_Layer-6;294;20;55;62;0.5;0.5
