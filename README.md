@@ -4,9 +4,9 @@ Fun Run is a 2D Multiplayer game built with Unity and C# for its scripting funct
 The game is influenced by 
 
 
-![alt tag](http://imgur.com/oI96kwu)
+![alt tag](https://i.imgur.com/oI96kwu.png)
 
-![alt tag](http://imgur.com/npxhcbR)
+![alt tag](https://i.imgur.com/npxhcbR.png)
 
-![alt tag](http://imgur.com/3tE9M83)
+![alt tag](https://i.imgur.com/3tE9M83.png)
 
