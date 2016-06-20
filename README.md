@@ -1,6 +1,6 @@
-# Fun Run Unity Game
+# Fun Runner Unity Game
 
-Fun Run is a 2D Multiplayer game built with Unity and C# for its scripting functionality. 
+Fun Runner is a 2D Multiplayer game built with Unity and C# for its scripting functionality. 
 The game is influenced by 
 
 
